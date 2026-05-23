@@ -1,13 +1,18 @@
 <div align="center">
 
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Venky7605&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Venky7605&color=6C63FF&style=flat-square&label=Profile+Views)
 
 <!-- Profile Photo -->
-<img src="profile.jpeg" width="160" style="border-radius: 50%;" alt="Venkateswara Reddy Vennapusa" /><br/>
+<img src="https://raw.githubusercontent.com/Venky7605/Venky7605/main/profile.jpeg" width="150" alt="Venkateswara Reddy Vennapusa" style="border-radius:50%"/>
 
-<!-- Animated Greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Venkateswara+Reddy+%F0%9F%91%8B;Technology+Professional+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+<br/>
+
+<!-- Name -->
+<h1>Venkateswara Reddy Vennapusa</h1>
+
+<!-- Animated Role -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Technology+Professional+%F0%9F%92%BC;Reserve+Bank+Innovation+Hub+%F0%9F%8F%A6;Building+Digital+Solutions+%F0%9F%9A%80;Problem+Solver+%7C+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
@@ -15,10 +20,10 @@
 
 ## About Me
 
-- Technology professional passionate about building impactful digital solutions
-- Focused on automation, data-driven decision making, and clean engineering
-- Always exploring new tools and frameworks to solve real-world problems
-- Open to collaborating on meaningful open-source projects
+- Technology professional at **Reserve Bank Innovation Hub (RBIH)**
+- Passionate about leveraging technology to modernize financial systems
+- Strong focus on automation, data-driven solutions, and clean engineering
+- Always exploring emerging technologies and open-source tools
 
 ---
 
@@ -27,9 +32,9 @@
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Data & Analytics**
 
@@ -52,8 +57,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Venky7605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venky7605&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Venky7605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venky7605&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,5 +94,5 @@
 ---
 
 <div align="center">
-  <i>⭐ Star some repos if you find them useful — it means a lot!</i>
+  <i>⭐ If you find my work useful, consider giving it a star!</i>
 </div>
