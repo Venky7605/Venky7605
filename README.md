@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Venky7605&color=6C63FF&style=flat-square&label=Profile+Views)
 
-<!-- Profile Photo -->
-<img src="https://raw.githubusercontent.com/Venky7605/Venky7605/main/profile.jpeg" width="150" alt="Venkateswara Reddy Vennapusa" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/Venky7605/Venky7605/main/profile.jpeg" width="150" alt="Venkateswara Reddy Vennapusa"/>
 
-<br/>
-
-<!-- Name -->
 <h1>Venkateswara Reddy Vennapusa</h1>
 
-<!-- Animated Role -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Technology+Professional+%F0%9F%92%BC;Reserve+Bank+Innovation+Hub+%F0%9F%8F%A6;Building+Digital+Solutions+%F0%9F%9A%80;Problem+Solver+%7C+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Senior+Associate+%E2%80%93+Finance+%26+Accounts+%F0%9F%92%BC;Reserve+Bank+Innovation+Hub+%F0%9F%8F%A6;Fintech+%7C+Data+Analytics+%7C+Financial+Systems;Driving+Innovation+in+Indian+Finance+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -20,36 +14,34 @@
 
 ## About Me
 
-- Technology professional at **Reserve Bank Innovation Hub (RBIH)**
-- Passionate about leveraging technology to modernize financial systems
-- Strong focus on automation, data-driven solutions, and clean engineering
-- Always exploring emerging technologies and open-source tools
+- **Senior Associate – Finance & Accounts** at Reserve Bank Innovation Hub (RBIH)
+- Working at the intersection of **finance, technology, and innovation** in India's financial ecosystem
+- Experience in financial reporting, accounts management, and data-driven decision making
+- Passionate about fintech, digital financial infrastructure, and process automation
 
 ---
 
-## Tech Stack
+## Skills & Tools
 
-**Languages & Frameworks**
+**Finance & Accounting**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Tally](https://img.shields.io/badge/Tally-0078D4?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 
 **Data & Analytics**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Databases & Infrastructure**
+**Productivity & Collaboration**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -86,8 +78,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswarareddyvennapusa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vennapusavenki036@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venky7605)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techsupport@rbihub.in)
 
 </div>
 
