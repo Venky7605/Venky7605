@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Venky — Finance meets practical software</title>
+<desc id="desc">Venkateswara Reddy Vennapusa. Finance, automation and practical AI. Turning complex workflows into useful tools.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172d3c"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b7e4da" stroke-opacity=".055"/></pattern></defs>
+<rect width="1200" height="380" rx="22" fill="url(#bg)"/><rect width="1200" height="380" rx="22" fill="url(#grid)"/>
+<path d="M838 380V264h68V210h68V154h68V94h68V40h90" fill="none" stroke="#62d9bb" stroke-opacity=".17" stroke-width="24"/>
+<circle cx="1108" cy="98" r="78" fill="none" stroke="#62d9bb" stroke-opacity=".12"/>
+<rect x="55" y="51" width="38" height="4" rx="2" fill="#62d9bb"/>
+<text x="108" y="59" fill="#9bb4bd" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">VENKY7605 / PERSONAL PORTFOLIO</text>
+<text x="55" y="132" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="600">Venkateswara Reddy Vennapusa</text>
+<text x="55" y="206" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="700">Finance meets</text>
+<text x="55" y="268" fill="#62d9bb" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="700">practical software.</text>
+<text x="57" y="326" fill="#b3c6cf" font-family="Segoe UI,Arial,sans-serif" font-size="20">Finance workflows. Python automation. Useful AI.</text>
+<text x="944" y="328" fill="#88a9b4" font-family="Consolas,monospace" font-size="15">BUILD / LEARN / REFINE</text>
+</svg>
